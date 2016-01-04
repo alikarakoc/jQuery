@@ -1,0 +1,10 @@
+$(document).ready fonksiyonunuz içerisinde 
+
+
+$("#inputIdsiGirin").islemBittiMi(function () {
+   alert("Yazma iþlemi bitti");
+});
+
+Not * : jQuery Kütüphanesini Eklemeyi Unutmayýnýz...
+
+
